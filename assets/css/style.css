@@ -10,6 +10,16 @@
     height: 800px;
 }
 
+.cc-menu{
+    background: linear-gradient( rgb(0, 0, 0,0.55), rgb(0, 0, 0,0.55));
+    background-image: url('../images/verres.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1200px;
+}
+
 .banner .banner-desc{
     font-size: 48px;
     font-weight: 400;
