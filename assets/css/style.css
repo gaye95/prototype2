@@ -80,3 +80,26 @@
     background-color: limegreen;
     background: transparent;
 }
+
+.cc-navbar{
+    display: inline-block;
+}
+.cc-carousel{
+    display: flex;
+}
+@media screen and (min-width: 320px) and (max-width: 578px)
+
+{
+
+    
+    .cc-navbar{
+        width: 320px;
+    }
+    .cc-carousel{
+        height: ;
+    }
+    .samatexte{
+        margin-top: 600px;
+
+    }
+}
